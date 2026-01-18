@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-image-yaya
+kedua
 """
 
 import argparse
